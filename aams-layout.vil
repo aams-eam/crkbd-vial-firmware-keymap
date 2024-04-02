@@ -89,7 +89,7 @@
         "KC_LCTRL",
         "RALT(KC_GRAVE)",
         "KC_LBRACKET",
-        "KC_NO",
+        "RALT(KC_4)",
         "LSFT(KC_RBRACKET)",
         "KC_RBRACKET"
       ],
@@ -122,7 +122,7 @@
         "LSFT(KC_SLASH)",
         "LSFT(KC_DOT)",
         "LSFT(KC_COMMA)",
-        "KC_NO",
+        "LSFT(KC_LBRACKET)",
         "KC_NO"
       ],
       [
